@@ -38,7 +38,7 @@ README.md
 
 How to Use
 # 1. Clone this repository
-git clone https://github.com/your-username/data-analysis-portfolio.git
+git clone https://github.com/alihunaif6/customer_Trend_Data_Analysis.git
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn
